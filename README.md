@@ -12,6 +12,8 @@ We are interested in understand the user behavior under the context of mobile so
 
 * Qingyuan Gong, Yang Chen, Xinlei He, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu. DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks. To appear: IEEE Communications Magazine, 2018.
 
+* Rong Xie, Yang Chen, Shihan Lin, Tianyong Zhang, Yu Xiao, Xin Wang. Understanding Skout Users' Mobility Patterns on a Global Scale: A Data-Driven Study. To appear: World Wide Web Journal (WWWJ) (DOI: 10.1007/s11280-018-0551-8)
+
 * Qian Zhou, Yang Chen, Chuanhao Ma, Fei Li, Yu Xiao, Xin Wang, Xiaoming Fu. Measurement and Analysis of the Reviews in Airbnb. Proc. of IFIP Networking Conference (Networking'18), Zurich, Switzerland, May 2018.
 
 * Hao Zhao, Qingyuan Gong, Yang Chen, Jingrong Chen, Yong Li, Xiaoming Fu. This Place is Swarming: Using a Mobile Social App to Study Human Traffic in Cities. Proc. of 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (CASPer’18), co-located with the 16th IEEE International Conference on Pervasive Computing and Communications (PerCom’18), Athens, Greece, Mar. 2018.
