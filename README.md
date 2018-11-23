@@ -6,11 +6,11 @@ We are interested in understand the user behavior under the context of mobile so
 
 ## Publications
 
-* Qingyuan Gong, Yang Chen, Jiyao Hu, Qiang Cao, Pan Hui, Xin Wang. Understanding Cross-site Linking in Online Social Networks. To appear: ACM Transactions on the Web (TWEB).
+* Qingyuan Gong, Yang Chen, Jiyao Hu, Qiang Cao, Pan Hui, Xin Wang. Understanding Cross-site Linking in Online Social Networks. ACM Transactions on the Web (TWEB), 12(4):25:1-25:29.
 
-* Rong Xie, Yang Chen, Qinge Xie, Yu Xiao, Xin Wang. We Know Your Preferences in New Cities: Mining and Modeling the Behavior of Travelers. To appear: IEEE Communications Magazine, 2018.
+* Rong Xie, Yang Chen, Qinge Xie, Yu Xiao, Xin Wang. We Know Your Preferences in New Cities: Mining and Modeling the Behavior of Travelers. IEEE Communications Magazine, 2018, 56(11):28-35.
 
-* Qingyuan Gong, Yang Chen, Xinlei He, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu. DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks. To appear: IEEE Communications Magazine, 2018.
+* Qingyuan Gong, Yang Chen, Xinlei He, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu. DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks. IEEE Communications Magazine, 2018, 56(11):21-27.
 
 * Rong Xie, Yang Chen, Shihan Lin, Tianyong Zhang, Yu Xiao, Xin Wang. Understanding Skout Users' Mobility Patterns on a Global Scale: A Data-Driven Study. To appear: World Wide Web Journal (WWWJ) (DOI: 10.1007/s11280-018-0551-8)
 
@@ -18,7 +18,7 @@ We are interested in understand the user behavior under the context of mobile so
 
 * Hao Zhao, Qingyuan Gong, Yang Chen, Jingrong Chen, Yong Li, Xiaoming Fu. This Place is Swarming: Using a Mobile Social App to Study Human Traffic in Cities. Proc. of 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (CASPer’18), co-located with the 16th IEEE International Conference on Pervasive Computing and Communications (PerCom’18), Athens, Greece, Mar. 2018.
 
-* Yang Chen, Jiyao Hu, Hao Zhao, Yu Xiao, Pan Hui. Measurement and Analysis of the Swarm Social Network with Tens of Millions of Nodes To appear: IEEE Access, 2018.
+* Yang Chen, Jiyao Hu, Hao Zhao, Yu Xiao, Pan Hui. Measurement and Analysis of the Swarm Social Network with Tens of Millions of Nodes. IEEE Access, 2018, 6:4547-4559.
 
 * Shihan Lin, Rong Xie, Qinge Xie, Hao Zhao, Yang Chen. Understanding User Activity Patterns of the Swarm App: A Data-Driven Study. Proc. of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp’17), Poster Session, Hawaii, USA, Sep. 2017.
 
