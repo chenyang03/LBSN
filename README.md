@@ -6,13 +6,15 @@ We are interested in understand the user behavior under the context of mobile so
 
 ## Publications
 
+* Yang Chen, Jiyao Hu, Yu Xiao, Xiang Li, Pan Hui. Understanding the User Behavior of Foursquare: a Data-Driven Study on a Global Scale. To appear: IEEE Transactions on Computational Social Systems (TCSS).
+
 * Qingyuan Gong, Yang Chen, Jiyao Hu, Qiang Cao, Pan Hui, Xin Wang. Understanding Cross-site Linking in Online Social Networks. ACM Transactions on the Web (TWEB), 12(4):25:1-25:29.
 
 * Rong Xie, Yang Chen, Qinge Xie, Yu Xiao, Xin Wang. We Know Your Preferences in New Cities: Mining and Modeling the Behavior of Travelers. IEEE Communications Magazine, 2018, 56(11):28-35.
 
 * Qingyuan Gong, Yang Chen, Xinlei He, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu. DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks. IEEE Communications Magazine, 2018, 56(11):21-27.
 
-* Rong Xie, Yang Chen, Shihan Lin, Tianyong Zhang, Yu Xiao, Xin Wang. Understanding Skout Users' Mobility Patterns on a Global Scale: A Data-Driven Study. To appear: World Wide Web Journal (WWWJ) (DOI: 10.1007/s11280-018-0551-8)
+* Rong Xie, Yang Chen, Shihan Lin, Tianyong Zhang, Yu Xiao, Xin Wang. Understanding Skout Users' Mobility Patterns on a Global Scale: A Data-Driven Study. World Wide Web Journal (WWWJ), 2019, 22(6):2655–2673.
 
 * Qian Zhou, Yang Chen, Chuanhao Ma, Fei Li, Yu Xiao, Xin Wang, Xiaoming Fu. Measurement and Analysis of the Reviews in Airbnb. Proc. of IFIP Networking Conference (Networking'18), Zurich, Switzerland, May 2018.
 
