@@ -2,7 +2,7 @@
 
 ## Background
 
-We are interested in understand the user behavior under the context of mobile social apps. We explore several aspects, including social graphs, user mobility patterns and malicious account detection.
+We are interested in understanding the user behavior under the context of mobile social apps. We explore several aspects, including social graphs, user mobility patterns and malicious account detection.
 
 ## Publications
 
@@ -18,17 +18,15 @@ We are interested in understand the user behavior under the context of mobile so
 
 * Qian Zhou, Yang Chen, Chuanhao Ma, Fei Li, Yu Xiao, Xin Wang, Xiaoming Fu. Measurement and Analysis of the Reviews in Airbnb. Proc. of IFIP Networking Conference (Networking'18), Zurich, Switzerland, May 2018.
 
-* Hao Zhao, Qingyuan Gong, Yang Chen, Jingrong Chen, Yong Li, Xiaoming Fu. This Place is Swarming: Using a Mobile Social App to Study Human Traffic in Cities. Proc. of 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (CASPer’18), co-located with the 16th IEEE International Conference on Pervasive Computing and Communications (PerCom’18), Athens, Greece, Mar. 2018.
+* Hao Zhao, Qingyuan Gong, Yang Chen, Jingrong Chen, Yong Li, Xiaoming Fu. This Place is Swarming: Using a Mobile Social App to Study Human Traffic in Cities. Proc. of 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (CASPer'18), co-located with the 16th IEEE International Conference on Pervasive Computing and Communications (PerCom'18), Athens, Greece, Mar. 2018.
 
 * Yang Chen, Jiyao Hu, Hao Zhao, Yu Xiao, Pan Hui. Measurement and Analysis of the Swarm Social Network with Tens of Millions of Nodes. IEEE Access, 2018, 6:4547-4559.
 
-* Shihan Lin, Rong Xie, Qinge Xie, Hao Zhao, Yang Chen. Understanding User Activity Patterns of the Swarm App: A Data-Driven Study. Proc. of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp’17), Poster Session, Hawaii, USA, Sep. 2017.
+* Shihan Lin, Rong Xie, Qinge Xie, Hao Zhao, Yang Chen. Understanding User Activity Patterns of the Swarm App: A Data-Driven Study. Proc. of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'17), Poster Session, Hawaii, USA, Sep. 2017.
 
-* Yue Huang, Yang Chen, Qian Zhou, Jin Zhao, Xin Wang. Where Are We Visiting? Measurement and Analysis of Venues in Dianping. Proc. of IEEE International Conference on Communications (ICC’16), Kuala Lumpur, Malaysia, May 2016.
+* Yue Huang, Yang Chen, Qian Zhou, Jin Zhao, Xin Wang. Where Are We Visiting? Measurement and Analysis of Venues in Dianping. Proc. of IEEE International Conference on Communications (ICC'16), Kuala Lumpur, Malaysia, May 2016.
 
-* Yang Chen, Yuxi Yang, Jiyao Hu, Chenfan Zhuang. Measurement and Analysis of Tips in Foursquare. Proc. of the 14th IEEE International Conference on Pervasive Computing and Communications (PerCom’16), Work-in-Progress (WiP) session, Sydney, Australia, Mar. 2016.
-
-* Yuan Xuan, Yang Chen, Huiying Li, Pan Hui, Lei Shi. LBSNShield: Malicious Account Detection in Location-Based Social Networks. Proc. of the 19th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW’16), Interactive Poster Session, San Francisco, California, USA, Feb.-Mar. 2016.
+* Yang Chen, Yuxi Yang, Jiyao Hu, Chenfan Zhuang. Measurement and Analysis of Tips in Foursquare. Proc. of the 14th IEEE International Conference on Pervasive Computing and Communications (PerCom'16), Work-in-Progress (WiP) session, Sydney, Australia, Mar. 2016.
 
 ## Datasets
 
