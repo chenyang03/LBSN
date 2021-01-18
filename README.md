@@ -6,7 +6,9 @@ We are interested in understanding the user behavior under the context of mobile
 
 ## Publications
 
-* Yang Chen, Jiyao Hu, Yu Xiao, Xiang Li, Pan Hui. Understanding the User Behavior of Foursquare: a Data-Driven Study on a Global Scale. To appear: IEEE Transactions on Computational Social Systems (TCSS).
+* Xinlei He, Qingyuan Gong, Yang Chen*, Yang Zhang, Xin Wang, Xiaoming Fu. DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network. To appear: IEEE Transactions on Dependable and Secure Computing (TDSC).
+
+* Yang Chen, Jiyao Hu, Yu Xiao, Xiang Li, Pan Hui. Understanding the User Behavior of Foursquare: a Data-Driven Study on a Global Scale. IEEE Transactions on Computational Social Systems (TCSS), 2020, 7(4):1019-1032.
 
 * Qingyuan Gong, Yang Chen, Jiyao Hu, Qiang Cao, Pan Hui, Xin Wang. Understanding Cross-site Linking in Online Social Networks. ACM Transactions on the Web (TWEB), 12(4):25:1-25:29.
 
