@@ -10,7 +10,7 @@ We are interested in understanding the user behavior under the context of mobile
 
 * Wanda Li, Zhiwei Xu, Yi Sun, Qingyuan Gong, Yang Chen*, Aaron Yi Ding, Xin Wang, Pan Hui. DeepPick: A Deep Learning Approach to Unveil Outstanding Users Ranking with Public Attainable Features. To appear: IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
-* Xinlei He, Qingyuan Gong, Yang Chen*, Yang Zhang, Xin Wang, Xiaoming Fu. DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network. To appear: IEEE Transactions on Dependable and Secure Computing (TDSC).
+* Xinlei He, Qingyuan Gong, Yang Chen*, Yang Zhang, Xin Wang, Xiaoming Fu. DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network. IEEE Transactions on Dependable and Secure Computing (TDSC), 2021, 18(5):2193-2208.
 
 * Yang Chen, Jiyao Hu, Yu Xiao, Xiang Li, Pan Hui. Understanding the User Behavior of Foursquare: a Data-Driven Study on a Global Scale. IEEE Transactions on Computational Social Systems (TCSS), 2020, 7(4):1019-1032.
 
