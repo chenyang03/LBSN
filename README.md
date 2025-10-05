@@ -1,4 +1,4 @@
-# Research on Location-Based Social Networks (LBSNs) at the Mobile Systems and Networking Group at Fudan University
+# Research on Location-Based Social Networks (LBSNs) and Urban Computing at the Big Data and Networking Group at Fudan University
 
 ## Background
 
@@ -6,9 +6,13 @@ We are interested in understanding the user behavior under the context of mobile
 
 ## Publications
 
-* Qinge Xie, Qingyuan Gong, Xinlei He, Yang Chen*, Xin Wang, Haitao Zheng, Ben Y. Zhao. Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions. To appear: IEEE Transactions on Mobile Computing.
+* Yushan Liu, Yang Chen*, Jiayun Zhang, Yu Xiao, Xin Wang. Towards an Accurate Mobility Trajectory Recovery Using Contrastive Learning. Frontiers of Information Technology & Electronic Engineering, 2024, 25(11):1479-1496.
+ 
+* Min Gao, Zheng Li, Ruichen Li, Chenhao Cui, Xinyuan Chen, Bodian Ye, Yupeng Li, Weiwei Gu, Qingyuan Gong, Xin Wang, Yang Chen*. EasyGraph: A Multifunctional, Cross-Platform and Effective Library for Interdisciplinary Network Analysis. Patterns, 2023, 4(10):100839. (Cell Press)
 
-* Wanda Li, Zhiwei Xu, Yi Sun, Qingyuan Gong, Yang Chen*, Aaron Yi Ding, Xin Wang, Pan Hui. DeepPick: A Deep Learning Approach to Unveil Outstanding Users Ranking with Public Attainable Features. To appear: IEEE Transactions on Knowledge and Data Engineering (TKDE).
+* Qinge Xie, Qingyuan Gong, Xinlei He, Yang Chen*, Xin Wang, Haitao Zheng, Ben Y. Zhao. Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions. IEEE Transactions on Mobile Computing, 2023, 22(1):556-573.
+
+* Wanda Li, Zhiwei Xu, Yi Sun, Qingyuan Gong, Yang Chen*, Aaron Yi Ding, Xin Wang, Pan Hui. DeepPick: A Deep Learning Approach to Unveil Outstanding Users Ranking with Public Attainable Features. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, 35(1):291-306.
 
 * Xinlei He, Qingyuan Gong, Yang Chen*, Yang Zhang, Xin Wang, Xiaoming Fu. DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network. IEEE Transactions on Dependable and Secure Computing (TDSC), 2021, 18(5):2193-2208.
 
