@@ -1,4 +1,6 @@
-# Research on Location-Based Social Networks (LBSNs) and Urban Computing at the Big Data and Networking Group at Fudan University
+# Research on Location-Based Social Networks (LBSNs) and Urban Computing 
+
+(Big Data and Networking Group @ Fudan University)
 
 ## Background
 
